@@ -1,0 +1,17 @@
+.content {
+    width: 800px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
+
+p,
+ul,
+ol,
+li,
+blockquote {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
